@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>✏️ My Tech Stack ✏️</b></h3>
+<h1 align="center"><b>✏️ Tech Stack ✏️</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Objective C-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-09D3AC?style=flat-square&logo=React&logoColor=white"/>
