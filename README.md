@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>✏️ Tech Stack ✏️</b></h3>
+<h1 align="center"><b>Hi!</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
