@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotest-FF4081?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
+
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazqaz1000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qazqaz1000)
 
